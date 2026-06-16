@@ -1,0 +1,10 @@
+{
+  "name": "mattpocock-skills",
+  "owner": { "name": "Matt Pocock" },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": { "source": "github", "repo": "mattpocock/skills" }
+    }
+  ]
+}
